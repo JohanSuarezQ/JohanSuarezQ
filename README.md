@@ -1,18 +1,44 @@
-### Hola a todos! 👋
+# ⚡ Johán 😎💻
 
-Bueno pues les cuento que soy un programador Frontend en proceso 🌱, parte también de Platzi Master, amante de los videojuegos y con muchas ganas de seguir aprendiendo más, si puedes ayudarme o te puedo ser de ayuda, no dudes en contactarme!
+Desarrollador Frontend & Mobile.  
+Agarro ideas sueltas, las bajo a tierra y las convierto en interfaces y apps que funcionan en el mundo real.
 
-<!--
-**JohanSuarezQ/JohanSuarezQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta construir productos con intención:  
+que se entiendan, que escalen y que no se rompan al primer cambio 🧠🔥  
+Menos adivinanza, más estructura. Menos humo, más código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 ¿Qué hago?
+
+- Desarrollo frontend enfocado en experiencia y claridad
+- Construyo apps móviles con **React Native**
+- Tomo conceptos abstractos y los transformo en soluciones funcionales
+- Backend sencillo cuando el proyecto lo necesita, sin complicarse de más
+- Explorando **Swift** y el ecosistema iOS 🌱
+
+---
+
+## 🛠️ Stack que uso
+
+- HTML | CSS | JavaScript  
+- React ⚛️  
+- React Native 📱  
+- Git & GitHub  
+- VS Code + café ☕  
+
+*(El stack evoluciona, como cualquier buen sistema vivo)*
+
+---
+
+## 🧩 Cómo pienso el código
+
+- Si una idea no se puede explicar, tampoco se puede programar bien
+- El código es un puente entre la intención y el resultado
+- Prefiero soluciones claras antes que “trucos inteligentes”
+- Refactorizar no es opcional, es parte del proceso ⚡
+
+---
+
+> “Las ideas valen poco si no se pueden construir.  
+> El código es cómo se vuelven reales.” 😎💻
